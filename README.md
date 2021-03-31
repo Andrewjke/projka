@@ -1,0 +1,2 @@
+# projka
+Sync repa
